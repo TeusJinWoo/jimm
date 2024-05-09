@@ -1,0 +1,73 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.queijo{
+    background: #000000;
+    color:white;
+    display: flex;
+    justify-content: space-around;
+}
+.PÃO{
+    width: 20%;
+
+}
+.hamburger{
+   display: inline-block;
+   margin: 0 16px;
+   padding: 24px 0;
+   font-size: 24px;
+}
+.ovo{
+    width: 30%;
+
+}
+.cheddar{
+    background-color: black;
+    color: whitesmoke;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0;
+
+}
+.alface{
+    width: 45%;
+
+}
+.tomate{
+    padding: 24px 0;
+
+}
+body{
+    font-family: 'Bungee+Spice' sans-serif; 
+
+}
+.presunto2{
+    width: 60%;
+
+}
+.cheddar2{
+    width: 15%;
+
+
+}
+.hamburger2{
+    text-align: center;
+
+
+}
+.pao2{
+    text-align: center;
+    padding: 50px 0;
+
+}
+.alface2{
+    text-align: center;
+
+}
+.ovo2{
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20%;
+
+}
